@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore files created by the tool
+*.json
+
+# Ignore files that should feed to the tool
+*.csv
+*.xls
